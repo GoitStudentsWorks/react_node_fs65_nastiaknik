@@ -2,7 +2,7 @@
   "name": "goose-track-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nastiaknik.github.io/goose-track-frontend/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs65_nastiaknik/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@smastrom/react-rating": "^1.3.1",
